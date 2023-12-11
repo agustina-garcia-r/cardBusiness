@@ -1,0 +1,106 @@
+ body {
+    background-color: #F2F5F9;
+    }  
+
+    #Card {
+        position: relative;
+margin-top: 124px;
+background-color: #FFFFFF;
+width: 400px;
+height: 532px;
+margin-left: 450px;
+margin-bottom: 124px;
+border-radius: 20px;
+z-index: 1;
+
+    }
+
+
+    #imagen {
+        border-radius: 20px 20px 0 0;
+        width: 400px;
+    } 
+
+
+    #overlay {
+position: absolute;
+        z-index: 2;
+        left: 0.2px;
+        top: 205px;
+        width: 400px;
+        
+    }
+
+    #Perfect {
+        font-family: 'Poppins', sans-serif;
+        margin-left: 24px;
+        font-size: 1.3rem;
+        margin-top: -20px;
+        
+    }
+
+
+    #small {
+        margin-top: -10px;
+        margin-left: 24px;
+        margin-right: 24px;
+        font-family: 'Lato', sans-serif;
+font-size: 1.2rem;
+font-weight: lighter;
+color: #677489;
+        margin-bottom: 24px;
+
+    }
+
+
+    #LineaSeparadora{
+background-color: #F2F5F9;
+width: 400px;
+height: 1px;
+margin-bottom: 24px;
+    }
+
+
+    #Circulofondoavatar {
+        margin-left: 32px;
+        margin-top: 29px;
+        margin-bottom: 24px;
+width: 45px;
+height: 45px;
+border-radius: 100%;
+        background-color: #F2F5F9;
+    }
+
+    #Avatar {
+        width: 35.5px;
+        height: 35.5px; 
+        border-radius: 100%;
+       margin-left: 5px;
+       margin-top: 5px;
+       margin-top: 5px;
+    }
+
+    .Nombres {
+margin-top: -66px;
+        margin-left: 79.5px;
+        
+    }
+
+
+    #Amy {
+            margin-left: 24px;
+            margin-right: 24px;
+            font-family: 'Lato', sans-serif;
+    font-size: 1.2rem;
+    font-weight: bolder;
+    }
+
+    #Manager {
+        margin-top: -28px !important;
+        margin-left: 24px;
+        margin-right: 24px;
+        font-family: 'Lato', sans-serif;
+font-size: 1.2rem;
+font-weight: lighter;
+color: #677489;
+    }
